@@ -1,0 +1,8 @@
+{
+  "exportall.config.folderListener": [
+    "/src/models",
+    "/src/services",
+    "/src",
+    "/src/enums"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "@valo/cache",
+  "version": "0.0.1",
+  "description": "Cache implementation using IndexedDB",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValoIntranet/indexeddb-cache.git"
+  },
+  "keywords": [
+    "Caching"
+  ],
+  "author": "Elio Struyf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValoIntranet/indexeddb-cache/issues"
+  },
+  "homepage": "https://github.com/ValoIntranet/indexeddb-cache#readme",
+  "devDependencies": {
+    "tslib": "2.0.3",
+    "typescript": "4.0.3"
+  }
+}
